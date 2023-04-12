@@ -1,4 +1,16 @@
+body {
+    background-image: url("./images/paper.jpg");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    background-size: 600px 900px;
+}
 .paragraph-styling {
     cursor: pointer;
-    font-family: 'Freehand', cursive;
+    font-family: 'Indie Flower', cursive;
+    font-size: 40px;
+    padding-left: 100px;
+    margin-top: 5px;
+
+
 }
